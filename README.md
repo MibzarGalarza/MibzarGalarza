@@ -11,8 +11,8 @@
 <br />
 
 ### About Me
+- 📱 Mobile Developer  
 - Creator of **Camiones Duranyork** 🚚  
-- I’m always eager to learn new technologies and collaborate with others to create innovative solutions.
 
 ##
 
