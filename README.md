@@ -11,8 +11,7 @@
 <br />
 
 ### About Me
-- 📱 Mobile Developer  
-- Creator of **Camiones Duranyork** 🚚  
+- 📱 Mobile Developer && Front-End Developer 
 
 ##
 
