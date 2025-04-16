@@ -11,7 +11,7 @@
 <br />
 
 ### About Me
-- Software Engineer - Full Stack
+- Software Engineer - Front-End && Mobile Developer
 
 ##
 
