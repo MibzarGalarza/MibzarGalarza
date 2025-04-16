@@ -11,7 +11,7 @@
 <br />
 
 ### About Me
-- 📱 Mobile Developer && Front-End Developer 
+- Software Engineer - Full Stack
 
 ##
 
