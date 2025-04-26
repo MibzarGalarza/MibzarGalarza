@@ -21,10 +21,10 @@
   <!-- Add more as needed -->
 </p>
 
-## 📫 Contacto
-- Email: mibzar17@gmail.com  
+## 📫 Contact
+- Email: mibzar@example.com  
 - LinkedIn: [mibzar-galarza](https://www.linkedin.com/in/mibzar-galarza-659542233/)  
 - YouTube: [@m1bzar](https://www.youtube.com/@m1bzar)
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 ![Mibzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MibzarGalarza&show_icons=true&count_private=true)
