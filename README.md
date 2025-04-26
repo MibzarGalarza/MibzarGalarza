@@ -1,4 +1,5 @@
 # Hi, I'm Mibzar 👋
+- Software Engineer - Front-End && Mobile Developer
 ### I am a passionate Software Developer who enjoys spending countless hours coding
 - 💡 I have an entrepreneurial spirit and love learning new technologies.
 - 💼 I’m currently working as a Mobile Applications Developer using React Native with the Expo framework.  
@@ -9,11 +10,6 @@
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/mibzar-galarza-659542233/)
 
 <br />
-
-### About Me
-- Software Engineer - Front-End && Mobile Developer
-
-##
 
 ## 🚀 Technologies & Tools
 <p>
@@ -32,4 +28,3 @@
 
 ## 📈 Estadísticas de GitHub
 ![Mibzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MibzarGalarza&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MibzarGalarza&layout=compact)
