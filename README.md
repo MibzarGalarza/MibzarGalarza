@@ -1,4 +1,4 @@
-# Hi, I'm Mibzar 👋
+# Hi, I'm Mibzar Galarza👋
 ### Software Engineer - Front-End && Mobile Developer
 ### I am a passionate Software Developer who enjoys spending countless hours coding
 - 💡 I have an entrepreneurial spirit and love learning new technologies.
