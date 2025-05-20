@@ -22,7 +22,7 @@
 </p>
 
 ## 📫 Contact
-- Email: mibzar@example.com  
+- Email: mibzar17@gmail.com  
 - LinkedIn: [mibzar-galarza](https://www.linkedin.com/in/mibzar-galarza-659542233/)  
 - YouTube: [@m1bzar](https://www.youtube.com/@m1bzar)
 
