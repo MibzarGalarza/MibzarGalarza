@@ -1,5 +1,5 @@
 # Hi, I'm Mibzar Galarza👋
-### Software Engineer - Front-End && Mobile Developer
+### Software Engineer - Full Stack Developer
 ### I am a passionate Software Developer who enjoys spending countless hours coding
 - 💡 I have an entrepreneurial spirit and love learning new technologies.
 - 💼 I’m currently working as a Mobile Applications Developer using React Native with the Expo framework.  
