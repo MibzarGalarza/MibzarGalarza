@@ -65,7 +65,8 @@ Currently working as a **Mobile Developer**, creating and maintaining production
 ---
 
 ## 📊 GitHub Stats
-![Mibzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibzargalarza&show_icons=true&theme=tokyonight)
+[![Mibzar's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mibzargalarza&theme=tokyonight)](https://github.com/mibzargalarza)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mibzargalarza&theme=tokyonight)](https://github.com/mibzargalarza)
 
 ---
 
